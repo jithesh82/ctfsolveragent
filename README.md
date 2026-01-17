@@ -1,1 +1,1 @@
-# AI solve CTFs
+## AI agemt to solve CTFs
